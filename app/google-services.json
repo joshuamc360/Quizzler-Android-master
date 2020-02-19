@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51474936570",
+    "firebase_url": "https://quizzler-android-master-a8898.firebaseio.com",
+    "project_id": "quizzler-android-master-a8898",
+    "storage_bucket": "quizzler-android-master-a8898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51474936570:android:b69ff409911930dfa8cf43",
+        "android_client_info": {
+          "package_name": "com.londonappbrewery.quizzler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51474936570-9b1ih7se3tlb6obbaqk2di79n7v4irk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.londonappbrewery.quizzler",
+            "certificate_hash": "eb662e4ae1d0f8dc174637d800411a9262ce948a"
+          }
+        },
+        {
+          "client_id": "51474936570-t0jpo6ulkhmg8lmokboofmst36frj9c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD589HX4xc6WqATmiVB-3G46DLOhnFvcmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51474936570-t0jpo6ulkhmg8lmokboofmst36frj9c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
